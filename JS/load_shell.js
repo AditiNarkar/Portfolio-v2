@@ -505,12 +505,10 @@ Designed website's front-end, logo, managed database operations and routing.</li
         change_title.innerHTML = "GitStake (ongoing)"
         change_desc.innerHTML = `
         <ul>
-            <li>Currently developing a Web3.0 decentralized application using Solidity and Ethereum to incentivize and prioritize solutions for GitHub issues and open source contributing through pull requests through staking. </li>
-            <li> The system allows users to stake tokens on issues, with stakers displayed to the issuer in descending order of stakes for solver selection, promoting active and transparent collaboration.  </li>
-            <li> Implementing smart contracts for efficient stake management and issuer-based solver selection to enhance open-source project contributions. </li>
+            <li>Currently developing... </li>
         </ul>
         `;
-        change_techUsed.innerHTML = "Solidity, Hardhat, Next.js"
+        change_techUsed.innerHTML = "N.A."
     }
 
     requestAnimationFrame(animate);
