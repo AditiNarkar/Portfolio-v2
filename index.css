@@ -668,6 +668,7 @@ canvas.webgl {
   width: 37.1px;
   height: 49.4px;
 }
+
 .fish1-1-icon,
 .seahorse-1-parent {
   position: absolute;
@@ -676,12 +677,20 @@ canvas.webgl {
   width: 86px;
   height: 141px;
 }
-.fish1-1-icon {
+.fish1-1-icon,
+.fish1-1-icon-iot {
   top: 0;
   left: 0;
   width: 101px;
   height: 114.8px;
   object-fit: cover;
+}
+.fish2-1-parent-iot {
+  position: absolute;
+  top: 344px;
+  left: 628px;
+  width: 96px;
+  color: #001433;
 }
 .dsa {
   position: absolute;
@@ -701,6 +710,7 @@ canvas.webgl {
   height: 114.8px;
   color: #001433;
 }
+
 .fish2-1-icon,
 .fish2-1-icon-opencv,
 .image-5-icon {
