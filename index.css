@@ -35,7 +35,7 @@
         content: "";
         position: absolute;
         left: 50%;
-        bottom: 0;
+        bottom: 0px;
         transform: translateX(-50%) rotate(45deg);
         width: 20px;
         height: 20px;
@@ -45,7 +45,7 @@
       div {
         height: auto;
         position: relative;
-        bottom: 0;
+        bottom: 0px;
         width: 200px;
         background-color: var(--color-midnightblue-100);
         color: var(--color-skyblue);
@@ -112,12 +112,12 @@
 }
 
 img.other-project-crab {
-  width: 150px;
+  width: 80px;
   position: absolute;
-  transform: rotate(320deg);
+  /* transform: rotate(320deg); */
   z-index: 200;
-  top: 93px;
-  left: 175px;
+  top: 3px;
+  left: 215px;
 }
 /* 
 /* // ANIMATION */
@@ -341,7 +341,6 @@ canvas.webgl {
 .others-container {
   align-items: center;
   justify-content: center;
-  /* height: auto; */
 }
 .projects {
   margin: 0;
