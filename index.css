@@ -1655,7 +1655,7 @@ canvas.webgl {
   width: 100%;
   position: relative;
   background-color: var(--color-white);
-  height: 3789px;
+  height: 4589px;
   font-size: var(--font-size-13xl);
   color: var(--color-darkslateblue-100);
 }
@@ -1771,9 +1771,9 @@ canvas.webgl {
     }
   }
 
-  .portfoliodesktop {
+  /* .portfoliodesktop {
     width: 120%;
-  }
+  } */
   .aditi-narkar {
     height: 200px;
     font-size: 70px;
