@@ -1655,7 +1655,8 @@ canvas.webgl {
   width: 100%;
   position: relative;
   background-color: var(--color-white);
-  height: 4589px;
+  /* height: 4589px; */
+  height: 3789px;
   font-size: var(--font-size-13xl);
   color: var(--color-darkslateblue-100);
 }
